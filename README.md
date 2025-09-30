@@ -3,3 +3,5 @@ Pratice for INFS 634
 Hello world!
 
 :) 
+Hello Canada
+lalalalalala
