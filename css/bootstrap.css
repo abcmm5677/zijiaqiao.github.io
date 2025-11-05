@@ -1,0 +1,17 @@
+.btn-primary{
+    background-color: lightcoral;
+    border-color: darkred;
+}
+.btn-primary:hover{
+    background-color: rgb(94, 192, 224);
+    border-color: rgb(104, 104, 213);
+}
+
+#heading1{ 
+    color: rgb(62, 169, 230);
+    background-color: rgb(0, 0, 0);
+}
+
+.navbar-custom{
+    background-color: rgb(255, 182, 193);
+}
